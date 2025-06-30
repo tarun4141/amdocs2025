@@ -1,5 +1,5 @@
 kafka data ware house
 aws glue athena()[Dquery editor)
 
-
+hello everyone new changes made
 

@@ -1,0 +1,5 @@
+kafka data ware house
+aws glue athena()[Dquery editor)
+
+
+
